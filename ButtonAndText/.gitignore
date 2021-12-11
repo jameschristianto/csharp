@@ -1,0 +1,7 @@
+bin/
+obj/
+Properties/
+App.config
+ButtonAndText.csproj
+ButtonAndText.sln
+Form1.resx
