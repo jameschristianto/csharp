@@ -1,0 +1,8 @@
+bin/
+obj/
+Properties/
+App.config
+TemperatureConversion.csproj
+TemperatureConversion.sln
+Form1.resx
+.vs
