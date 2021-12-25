@@ -1,0 +1,10 @@
+bin/
+obj/
+Properties/
+packages/
+App.config
+*.csproj
+*.sln
+*.resx
+.vs
+packages.config
